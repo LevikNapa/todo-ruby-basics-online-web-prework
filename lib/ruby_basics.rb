@@ -10,7 +10,9 @@ def argue(language)
   
 end
 
-def greeting
+def greeting(name,language)
+  
+  puts "I love to study with #{Steve}"
 
 end
 
