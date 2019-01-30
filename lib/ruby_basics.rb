@@ -1,4 +1,4 @@
-def division(7/3)
+def division(7 / 3)
  
 end
 
